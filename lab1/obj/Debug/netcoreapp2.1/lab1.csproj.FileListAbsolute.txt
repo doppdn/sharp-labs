@@ -1,0 +1,11 @@
+/home/dndopp/projs/sharp/lab1/obj/Debug/netcoreapp2.1/lab1.csprojAssemblyReference.cache
+/home/dndopp/projs/sharp/lab1/obj/Debug/netcoreapp2.1/lab1.csproj.CoreCompileInputs.cache
+/home/dndopp/projs/sharp/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfoInputs.cache
+/home/dndopp/projs/sharp/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfo.cs
+/home/dndopp/projs/sharp/lab1/bin/Debug/netcoreapp2.1/lab1.deps.json
+/home/dndopp/projs/sharp/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.json
+/home/dndopp/projs/sharp/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.dev.json
+/home/dndopp/projs/sharp/lab1/bin/Debug/netcoreapp2.1/lab1.dll
+/home/dndopp/projs/sharp/lab1/bin/Debug/netcoreapp2.1/lab1.pdb
+/home/dndopp/projs/sharp/lab1/obj/Debug/netcoreapp2.1/lab1.dll
+/home/dndopp/projs/sharp/lab1/obj/Debug/netcoreapp2.1/lab1.pdb
